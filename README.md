@@ -2,9 +2,6 @@
 
 Halloween script for RedM (VORP and RSG). Players who are alone out in the wild at night get haunted by ghosts that only they can see.
 
-Need help? Join the [Discord](https://discord.gg/T6AXd2eWdH).
-
-
 https://github.com/user-attachments/assets/c979b296-3ddb-4108-b1f5-f398dbcb71c1
 
 
