@@ -84,9 +84,3 @@ Whispers and breathing get louder the closer the ghost is. Volume and range are 
 ## Config
 
 By default it only runs in October, set `Config.Months = {}` to run it all year. Everything else (chance, cooldown, night hours, ghost models, hotspots) is in `config.lua`.
-
-## Links
-
-- Discord (support & updates): https://discord.gg/T6AXd2eWdH
-- Docs: https://kartik-scripts.gitbook.io/
-- More scripts: https://kartikscripts.store/
