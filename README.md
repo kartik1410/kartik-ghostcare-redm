@@ -4,6 +4,10 @@ Halloween script for RedM (VORP and RSG). Players who are alone out in the wild 
 
 Need help? Join the [Discord](https://discord.gg/T6AXd2eWdH).
 
+
+https://github.com/user-attachments/assets/c979b296-3ddb-4108-b1f5-f398dbcb71c1
+
+
 ## How it works
 
 Every player has a haunting level. It slowly goes up while you're alone outside at night and drops when you're with others or it's daytime. The higher it gets, the worse it gets: first small things, then ghosts, then ghosts that come after you.
