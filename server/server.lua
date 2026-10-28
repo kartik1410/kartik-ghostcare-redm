@@ -9,12 +9,7 @@ local function isSeason()
     return false
 end
 
-CreateThread(function()
-    while true do
-        GlobalState.ghostscareActive = isSeason()
-        Wait(30 * 60000)
-    end
-end)
+GlobalState.ghostscareActive = isSeason()
 
 RegisterCommand('haunt', function(source, args)
     local target = tonumber(args[1]) or source
